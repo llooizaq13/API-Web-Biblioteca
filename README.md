@@ -272,17 +272,6 @@ A aplicação retorna erros estruturados:
 }
 ```
 
-## Melhorias Futuras
-
-- [ ] Autenticação e autorização
-- [ ] Paginação na listagem
-- [ ] Filtros de busca avançados
-- [ ] Logs estruturados
-- [ ] Testes unitários e de integração
-- [ ] Docker support
-- [ ] CI/CD com GitHub Actions
-- [ ] Documentação Swagger/OpenAPI
-
 ## Licença
 
 ISC
@@ -293,4 +282,4 @@ Desenvolvido por Maria Luiza Cavalcanti (llooizaq13)
 
 ## Suporte
 
-Para reportar problemas ou sugerir melhorias, abra uma issue no repositório.
+Para reportar problemas ou sugerir melhorias, basta mandar uma mensagemzinha para papear.
